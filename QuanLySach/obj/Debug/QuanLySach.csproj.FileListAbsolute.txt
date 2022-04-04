@@ -1,0 +1,15 @@
+D:\T2MProjects\dnet-workspace\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe.config
+D:\T2MProjects\dnet-workspace\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe
+D:\T2MProjects\dnet-workspace\QuanLySach\QuanLySach\bin\Debug\QuanLySach.pdb
+D:\T2MProjects\dnet-workspace\QuanLySach\QuanLySach\bin\Debug\Dapper.dll
+D:\T2MProjects\dnet-workspace\QuanLySach\QuanLySach\bin\Debug\Dapper.xml
+D:\T2MProjects\dnet-workspace\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.AssemblyReference.cache
+D:\T2MProjects\dnet-workspace\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Form1.resources
+D:\T2MProjects\dnet-workspace\QuanLySach\QuanLySach\obj\Debug\QuanLySach.GUI.FormNhaXuatBan_TaoMoi.resources
+D:\T2MProjects\dnet-workspace\QuanLySach\QuanLySach\obj\Debug\QuanLySach.GUI.FormSach_TaoMoi.resources
+D:\T2MProjects\dnet-workspace\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Properties.Resources.resources
+D:\T2MProjects\dnet-workspace\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.GenerateResource.cache
+D:\T2MProjects\dnet-workspace\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.CoreCompileInputs.cache
+D:\T2MProjects\dnet-workspace\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.CopyComplete
+D:\T2MProjects\dnet-workspace\QuanLySach\QuanLySach\obj\Debug\QuanLySach.exe
+D:\T2MProjects\dnet-workspace\QuanLySach\QuanLySach\obj\Debug\QuanLySach.pdb
